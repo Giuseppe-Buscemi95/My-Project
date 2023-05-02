@@ -7,7 +7,7 @@ return[
     'titleCarouselend' =>'dans votre ville',
     'saluta' => 'Bonjour',
     'team'=>'ÉQUIPE DE DÉVELOPPEMENT',
-    'presentationTeam'=> "Nous sommes un groupe de trois jeunes étudiants d'Aulab qui ont travaillé sur la conception du site Presto.it",
+    'presentationTeam'=> "Grâce à Aulab, j'ai réussi avec beaucoup d'efforts et d'études à créer un projet complet",
     'workTeam'=> 'DEMANDE POUR DEVENIR REVISEUR',
     'vantaggiTeam'=>"LES AVANTAGES DE L'ÉQUIPE PRESTO.IT",
     'Smartworking'=>'Travail intelligent',

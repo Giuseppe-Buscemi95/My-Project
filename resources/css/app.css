@@ -31,6 +31,9 @@ body {
 .textcolorhover:hover{
 color: var(--textcolor);
 }
+.mia-foto{
+    margin-left: 420px;
+}
 /* utility */
 .backgroundwhite{
     background-color: var(--white);
